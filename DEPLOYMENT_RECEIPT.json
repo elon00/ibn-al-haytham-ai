@@ -1,0 +1,14 @@
+{
+  "project": "ibn-al-haytham-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "Fg5ZbnVV9LHRbwaWLxmg1mPK7MyyaEcspcthivsvwUDy",
+  "vault_account": "2GRMzzg9v7E7W8DqSWj9Uon2NnSg1HnA7FsuRWRcQso3",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "2i9QvqczRekfngJ1U3ANnKVKPkEL4swDJic6CRZbktAcBbo7K1q38TQy1YMDCJswWvYEpY7ihh75R9qPaZ6xarJC",
+  "account_tx": "ZWoAxzp1vNehaAaWbqYLzDh3KJSxFRVd1nAkAetCA2fsfMc4izkLXPrp74sKcZtAM6knYcbR5ATpZb99gKV8NFA",
+  "mint_tx": "5GvfDLF6uqyEnFGvrwAJ1dsBjfueMhj8YGVxbXCfv7nEYbo4jGL5UpTP33veuU98wUuVQLNjCLecE58TwuEPqbQ6",
+  "solana_explorer_mint": "https://explorer.solana.com/address/Fg5ZbnVV9LHRbwaWLxmg1mPK7MyyaEcspcthivsvwUDy?cluster=devnet",
+  "timestamp": "2026-10-26 16:40:36 UTC"
+}
